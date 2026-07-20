@@ -1,4 +1,3 @@
-# AAS
 accessKey: ""
 attributes: NamedNodeMap
 baseURI: "file:///C:/Users/ASUS%20Vivobook/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/88B8FF01CBF69B31668312B2DEC3FB23E1A121CD/transfers/2026-29/AM%20Ekspor.kmz/"
