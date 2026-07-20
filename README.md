@@ -1,34 +1,7 @@
-ALLOW_KEYBOARD_INPUT: 1
-blur: function blur() {
-focus: function focus() {
-getAttribute: function getAttribute() {
-getAttributeNS: function getAttributeNS() {
-getAttributeNode: function getAttributeNode() {
-getAttributeNodeNS: function getAttributeNodeNS() {
-getBoundingClientRect: function getBoundingClientRect() {
-getClientRects: function getClientRects() {
-getElementsByClassName: function getElementsByClassName() {
-getElementsByTagName: function getElementsByTagName() {
-getElementsByTagNameNS: function getElementsByTagNameNS() {
-hasAttribute: function hasAttribute() {
-hasAttributeNS: function hasAttributeNS() {
-hasAttributes: function hasAttributes() {
-querySelector: function querySelector() {
-querySelectorAll: function querySelectorAll() {
-remove: function remove() {
-removeAttribute: function removeAttribute() {
-removeAttributeNS: function removeAttributeNS() {
-removeAttributeNode: function removeAttributeNode() {
-scrollByLines: function scrollByLines() {
-scrollByPages: function scrollByPages() {
-scrollIntoView: function scrollIntoView() {
-scrollIntoViewIfNeeded: function scrollIntoViewIfNeeded() {
-setAttribute: function setAttribute() {
-setAttributeNS: function setAttributeNS() {
-setAttributeNode: function setAttributeNode() {
-setAttributeNodeNS: function setAttributeNodeNS() {
-webkitGetRegionFlowRanges: function webkitGetRegionFlowRanges() {
-webkitMatchesSelector: function webkitMatchesSelector() {
-webkitRequestFullScreen: function webkitRequestFullScreen() {
-webkitRequestFullscreen: function webkitRequestFullscreen() {
-__proto__: NodePrototype
+__proto__: HTMLElementPrototype
+click: function click() {
+insertAdjacentElement: function insertAdjacentElement() {
+insertAdjacentHTML: function insertAdjacentHTML() {
+insertAdjacentText: function insertAdjacentText() {
+__proto__: ElementPrototype
+HTMLElement
