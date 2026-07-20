@@ -1,19 +1,21 @@
-# README – Standalone qgis2web Export
-
-This export is completely "self-contained".
-
-To view the map, simply open "index.html" by double-clicking it.
-No web server or additional software is required.
-
-The map works because all the required JavaScript libraries are included
-in the export. The application loads the GeoJSON layer data and their styles
-directly from the local files.
-
-## Publishing on a Website
-
-If you upload the entire folder to a web server, the map will work 
-immediately by opening the "index.html" file.
-
-Example:
-
-"https://www.example.com/my-map/index.html"
+element.style {
+}
+Inherited from table
+user agent stylesheettable {
+white-space: normal;
+line-height: normal;
+font-weight: normal;
+font-size: medium;
+font-variant: normal;
+font-style: normal;
+color: -webkit-text;
+text-align: start;
+}
+user agent stylesheettable {
+border-collapse: separate;
+border-spacing: 2px;
+border-color: gray;
+}
+Metrics
+Properties
+img
