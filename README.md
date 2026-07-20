@@ -1,110 +1,34 @@
-accessKey: ""
-attributes: NamedNodeMap
-baseURI: "file:///C:/Users/ASUS%20Vivobook/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/88B8FF01CBF69B31668312B2DEC3FB23E1A121CD/transfers/2026-29/AM%20Ekspor.kmz/"
-childElementCount: 2
-childNodes: NodeList[2]
-children: HTMLCollection[2]
-classList: DOMTokenList
-className: ""
-clientHeight: 1425
-clientLeft: 0
-clientTop: 0
-clientWidth: 1444
-constructor: HTMLHtmlElementConstructor
-contentEditable: "inherit"
-dataset: DOMStringMap
-dir: ""
-draggable: false
-firstChild: head
-firstElementChild: head
-hidden: false
-id: ""
-innerHTML: "<head><style type="text/css">body {↵  background-color: rgb(255, 255, 255);↵}↵</style></head><body><h3>BA6</h3><table border="1"><tbody><tr><td>schema0:Photos</td><td><img src="images/BA6.jpg"><br></td></tr><tr><td>schema0:Photo Name</td><td>BA6</td></tr><tr><td>schema0:Photo Date</td><td>2026:07:06</td></tr><tr><td>schema0:Photo Timestamp</td><td>None</td></tr><tr><td>schema0:Photo Location</td><td>1.100269, -103.928261</td></tr><tr><td>schema0:Photo Altitude</td><td>2.14 m</td></tr><tr><td>schema0:Photo Orientation</td><td>218</td></tr><tr><td>schema0:Device Type</td><td>None</td></tr></tbody></table><p>Directions: <a href="earth://kh_directions_to" target="_blank">To here</a> - <a href="earth://kh_directions_from" target="_blank">From here</a></p></body>"
-innerText: "BA6↵↵schema0:Photos	↵schema0:Photo Name	BA6↵schema0:Photo Date	2026:07:06↵schema0:Photo Timestamp	None↵schema0:Photo Location	1.100269, -103.928261↵schema0:Photo Altitude	2.14 m↵schema0:Photo Orientation	218↵schema0:Device Type	None↵Directions: To here - From here"
-isContentEditable: false
-lang: ""
-lastChild: body
-lastElementChild: body
-localName: "html"
-manifest: ""
-namespaceURI: "http://www.w3.org/1999/xhtml"
-nextElementSibling: null
-nextSibling: null
-nodeName: "HTML"
-nodeType: 1
-nodeValue: null
-offsetHeight: 1425
-offsetLeft: 0
-offsetParent: null
-offsetTop: 0
-offsetWidth: 1444
-onabort: null
-onbeforecopy: null
-onbeforecut: null
-onbeforepaste: null
-onblur: null
-onchange: null
-onclick: null
-oncontextmenu: null
-oncopy: null
-oncut: null
-ondblclick: null
-ondrag: null
-ondragend: null
-ondragenter: null
-ondragleave: null
-ondragover: null
-ondragstart: null
-ondrop: null
-onerror: null
-onfocus: null
-oninput: null
-oninvalid: null
-onkeydown: null
-onkeypress: null
-onkeyup: null
-onload: null
-onmousedown: null
-onmouseenter: null
-onmouseleave: null
-onmousemove: null
-onmouseout: null
-onmouseover: null
-onmouseup: null
-onmousewheel: null
-onpaste: null
-onreset: null
-onscroll: null
-onsearch: null
-onselect: null
-onselectstart: null
-onsubmit: null
-ontouchcancel: null
-ontouchend: null
-ontouchmove: null
-ontouchstart: null
-onwebkitfullscreenchange: null
-onwebkitfullscreenerror: null
-outerHTML: "<html><head><style type="text/css">body {↵  background-color: rgb(255, 255, 255);↵}↵</style></head><body><h3>BA6</h3><table border="1"><tbody><tr><td>schema0:Photos</td><td><img src="images/BA6.jpg"><br></td></tr><tr><td>schema0:Photo Name</td><td>BA6</td></tr><tr><td>schema0:Photo Date</td><td>2026:07:06</td></tr><tr><td>schema0:Photo Timestamp</td><td>None</td></tr><tr><td>schema0:Photo Location</td><td>1.100269, -103.928261</td></tr><tr><td>schema0:Photo Altitude</td><td>2.14 m</td></tr><tr><td>schema0:Photo Orientation</td><td>218</td></tr><tr><td>schema0:Device Type</td><td>None</td></tr></tbody></table><p>Directions: <a href="earth://kh_directions_to" target="_blank">To here</a> - <a href="earth://kh_directions_from" target="_blank">From here</a></p></body></html>"
-outerText: "BA6↵↵schema0:Photos	↵schema0:Photo Name	BA6↵schema0:Photo Date	2026:07:06↵schema0:Photo Timestamp	None↵schema0:Photo Location	1.100269, -103.928261↵schema0:Photo Altitude	2.14 m↵schema0:Photo Orientation	218↵schema0:Device Type	None↵Directions: To here - From here"
-ownerDocument: document
-parentElement: null
-parentNode: document
-prefix: null
-previousElementSibling: null
-previousSibling: null
-scrollHeight: 1425
-scrollLeft: 0
-scrollTop: 0
-scrollWidth: 1566
-spellcheck: true
-style: CSSStyleDeclaration
-tabIndex: -1
-tagName: "HTML"
-textContent: "body {↵  background-color: rgb(255, 255, 255);↵}↵BA6schema0:Photosschema0:Photo NameBA6schema0:Photo Date2026:07:06schema0:Photo TimestampNoneschema0:Photo Location1.100269, -103.928261schema0:Photo Altitude2.14 mschema0:Photo Orientation218schema0:Device TypeNoneDirections: To here - From here"
-title: ""
-translate: true
-version: ""
-webkitRegionOverset: "undefined"
-webkitdropzone: ""
-__proto__: HTMLHtmlElementPrototype
+ALLOW_KEYBOARD_INPUT: 1
+blur: function blur() {
+focus: function focus() {
+getAttribute: function getAttribute() {
+getAttributeNS: function getAttributeNS() {
+getAttributeNode: function getAttributeNode() {
+getAttributeNodeNS: function getAttributeNodeNS() {
+getBoundingClientRect: function getBoundingClientRect() {
+getClientRects: function getClientRects() {
+getElementsByClassName: function getElementsByClassName() {
+getElementsByTagName: function getElementsByTagName() {
+getElementsByTagNameNS: function getElementsByTagNameNS() {
+hasAttribute: function hasAttribute() {
+hasAttributeNS: function hasAttributeNS() {
+hasAttributes: function hasAttributes() {
+querySelector: function querySelector() {
+querySelectorAll: function querySelectorAll() {
+remove: function remove() {
+removeAttribute: function removeAttribute() {
+removeAttributeNS: function removeAttributeNS() {
+removeAttributeNode: function removeAttributeNode() {
+scrollByLines: function scrollByLines() {
+scrollByPages: function scrollByPages() {
+scrollIntoView: function scrollIntoView() {
+scrollIntoViewIfNeeded: function scrollIntoViewIfNeeded() {
+setAttribute: function setAttribute() {
+setAttributeNS: function setAttributeNS() {
+setAttributeNode: function setAttributeNode() {
+setAttributeNodeNS: function setAttributeNodeNS() {
+webkitGetRegionFlowRanges: function webkitGetRegionFlowRanges() {
+webkitMatchesSelector: function webkitMatchesSelector() {
+webkitRequestFullScreen: function webkitRequestFullScreen() {
+webkitRequestFullscreen: function webkitRequestFullscreen() {
+__proto__: NodePrototype
